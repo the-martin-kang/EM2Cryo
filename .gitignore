@@ -1,0 +1,77 @@
+############################
+# Python / uv environment
+############################
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.ipynb_checkpoints/
+
+############################
+# uv specific
+############################
+.uv/
+uv.lock
+
+############################
+# OS / Editor
+############################
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+############################
+# Jupyter / logs
+############################
+*.log
+*.tmp
+
+############################
+# Large scientific data (EM)
+############################
+# EMPIAR Cryo-ET data (VERY LARGE)
+EMPIAR-10227/
+data/EMPIAR-10227/
+data/raw/
+data/cryoet/
+
+# Electron microscopy volumes
+*.mrc
+*.rec
+*.map
+*.em
+*.bz2
+
+############################
+# Derived volumes / caches
+############################
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.zarr
+.cache/
+napari_cache/
+
+############################
+# Figures (optional)
+############################
+# Uncomment if you want to keep figures OUT of git
+# figures/raw/
+# figures/tmp/
+
+############################
+# Model checkpoints
+############################
+*.pt
+*.pth
+*.ckpt
+
+############################
+# Temporary experiment outputs
+############################
+outputs/
+runs/
