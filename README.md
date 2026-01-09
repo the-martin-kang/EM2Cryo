@@ -1,12 +1,10 @@
 - on going project
 ### EM2Cryo
-Institution: Seoul National University, NCIRF(National Center for Inter-University Research Facilities)
-Program: The 7th Undergraduate Student Research Program on Advanced Core Facilities in Basic Sciences
-Theme: AI-assisted 3D reconstruction of yeast cells from SEM/TEM images and comparison with Cryo-ET tomograms
-주제: (SEM/TEM 영상 기반 효모 세포의 AI 보조 3차원 구조 추정 및 Cryo-ET 토모그램 비교)
-Timeline: 2026.1.5 - 2025.1.16
-
-_EM2Cryo: AI-assisted 3D reconstruction of yeast cells from SEM/TEM images and comparison with Cryo-ET tomograms_
+- Institution: Seoul National University, NCIRF(National Center for Inter-University Research Facilities)
+- Program: The 7th Undergraduate Student Research Program on Advanced Core Facilities in Basic Sciences
+- Theme: AI-assisted 3D reconstruction of yeast cells from SEM/TEM images and comparison with Cryo-ET tomograms
+- 주제: (SEM/TEM 영상 기반 효모 세포의 AI 보조 3차원 구조 추정 및 Cryo-ET 토모그램 비교)
+- Timeline: 2026.1.5 - 2025.1.16
 
 ### Motivation
 > Recent advances in electron microscopy have enabled detailed structural analysis of cells at nanometer scales.
